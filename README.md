@@ -9,7 +9,7 @@ I’m the **creator of BJH OS**, a web-based operating system designed to run di
 
 ### 🚀 About Me
 
-- 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **C**, **C++**, and **Python**.  
+- 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **React**, **TypeScript**, **C**, **C++**, and **Python**.  
 - 🤖 I’m also a **hobbyist IoT developer**, working on fun and practical projects using **ESP8266** and **ESP32**.  
 - 🔧 I love experimenting with new technologies and making systems that connect both **software and hardware**.  
 - 🧩 Explore my **awesome projects** in my GitHub repositories — there’s always something cool in progress!  
@@ -19,7 +19,7 @@ I’m the **creator of BJH OS**, a web-based operating system designed to run di
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-`HTML` · `CSS` · `JavaScript`
+`HTML` · `CSS` · `JavaScript` · `React`
 
 **Backend:**  
 `PHP` · `MySQL`
