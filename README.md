@@ -3,7 +3,7 @@
 ### 💻 Creator of [**KryonOS**](https://github.com/Haris16-code/KryonOS) | 💡 Full-Stack Developer & Hardware Enthusiast  
 
 I’m a passionate developer building **high-performance, creative, and accessible projects** bridging modern software with physical hardware.  
-I’m the **creator of [KryonOS](https://github.com/Haris16-code/KryonOS)**, an open-source graphical operating system and JavaScript application runtime built for ESP32 and ESP32-S3 microcontrollers — fast, lightweight, and hardware-accelerated! ⚡  
+I’m the **creator of [KryonOS](https://github.com/Haris16-code/KryonOS)**, an open-source graphical operating system and JavaScript application runtime built for ESP32 microcontroller — fast, lightweight, and hardware-accelerated! ⚡  
 
 ---
 
