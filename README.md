@@ -1,51 +1,49 @@
 # 👋 Hi, I'm Haris
 
-### 💻 Developer of **BJH OS** | 💡 Full-Stack Developer & IoT Hobbyist  
+### 💻 Creator of [**KryonOS**](https://github.com/Haris16-code/KryonOS) | 💡 Full-Stack Developer & Hardware Enthusiast  
 
-I’m a passionate developer who loves building **modern, creative, and useful projects** using the latest technologies.  
-I’m the **creator of BJH OS**, a web-based operating system designed to run directly in browsers — simple, fast, and futuristic! ⚡  
+I’m a passionate developer building **high-performance, creative, and accessible projects** bridging modern software with physical hardware.  
+I’m the **creator of [KryonOS](https://github.com/Haris16-code/KryonOS)**, an open-source graphical operating system and JavaScript application runtime built for ESP32 and ESP32-S3 microcontrollers — fast, lightweight, and hardware-accelerated! ⚡  
 
 ---
 
 ### 🚀 About Me
 
-- 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **React**, **TypeScript**, **C**, **C++**, and **Python**.  
-- 🤖 I’m also a **hobbyist IoT developer**, working on fun and practical projects using **ESP8266** and **ESP32**.  
-- 🔧 I love experimenting with new technologies and making systems that connect both **software and hardware**.  
-- 🧩 Explore my **awesome projects** in my GitHub repositories — there’s always something cool in progress!  
-- 💻 I also create **web applications**, **Windows/Linux software**, and **Android apps**.  
+- 🌐 Skilled in **C**, **C++**, **JavaScript**, **TypeScript**, **Python**, **PHP**, **React**, and **MySQL**.  
+- 🤖 Passionate about **microcontrollers & IoT**, creating interactive operating systems, display drivers, and mesh communication networks on **ESP32** and **ESP8266**.  
+- 🔧 I love pushing low-cost microcontrollers to their limits, bringing modern GUI windowing, real-time 3D pipelines, and high-level scripting to bare-metal hardware.  
+- 🧩 Explore my **repositories** — from microcontroller operating systems and desktop utilities to web platforms and developer tools.  
+- 💻 Experienced across **Embedded Computing**, **Web Applications**, and **Cross-Platform Software (Linux/Windows)**.  
+
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-`HTML` · `CSS` · `JavaScript` · `React`
+**Embedded & Hardware:**  
+`C` · `C++` · `ESP32` · `ESP8266` · `FreeRTOS` · `SPI/I2C Displays`
 
-**Backend:**  
-`PHP` · `MySQL`
+**Frontend & Scripting:**  
+`JavaScript` · `TypeScript` · `React` · `HTML` · `CSS`
 
-**Programming:**  
-`C` · `C++` · `Python`
+**Backend & Systems:**  
+`Python` · `PHP` · `MySQL`
 
-**Hardware & IoT:**  
-`ESP8266` · `ESP32`
-
-**Platforms:**  
-`Web` · `Windows` · `Linux` · `Android`
+**Platforms & Environments:**  
+`Microcontrollers` · `Linux` · `Web` · `Windows`
 
 ---
 
 ### 🌟 Featured Project
 
-🖥️ **[BJH OS](https://github.com/Haris16-code/BJH-OS)**  
-A futuristic, web-based open-source operating system built with HTML, CSS, and JavaScript.  
+🖥️ **[KryonOS](https://github.com/Haris16-code/KryonOS)**  
+A full graphical operating system for ESP32 microcontrollers featuring an onboard JavaScript runtime, the **Kryon3D** graphics engine, **FastMath** DSP acceleration, an app ecosystem, and OTA updates.  
 
 ---
 
 ### 📫 Connect With Me
 
-💬 Always open to collaboration, sharing ideas, and working on innovative projects.  
-⭐ Check out my repositories — and don’t forget to leave a star if you like my work!  
+💬 Always open to collaboration, sharing ideas, and building innovative open-source systems.  
+⭐ Check out my repositories — and don’t forget to leave a star if you find something useful!  
 
 ---
 
